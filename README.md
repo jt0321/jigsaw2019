@@ -1,4 +1,4 @@
-An example of fine-tuning BERT with Gluon NLP.  
+Simple examples of fine-tuning BERT and LSTM models with Gluon NLP.  
 
 Note: bertadam optimizer requires MXNet >= 1.4.0.  Preview version can be installed via  
 `pip install --upgrade mxnet-cu100 --pre`  
